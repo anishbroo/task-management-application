@@ -53,9 +53,9 @@ function EditTask({ task }) {
                 <option value="value" disabled selected>
                   Select Status
                 </option>
-                <option value="todo">To Do</option>
-                <option value="in-progress">In Progress</option>
-                <option value="completed">Completed</option>
+                <option value="To Do">To Do</option>
+                <option value="In-progress">In Progress</option>
+                <option value="Completed">Completed</option>
               </select>
             </div>
 

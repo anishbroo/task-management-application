@@ -31,7 +31,7 @@ function TaskLists() {
     <>
       <div>
         <div>
-          <h2>Tasks</h2>
+          <h2 className="text-2xl text-indigo-500 font-semibold">Tasks</h2>
           <ul className="space-y-4">
             {tasks.map((task) => (
               <li
